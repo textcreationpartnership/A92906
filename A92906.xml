@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sad caveat to all Quakers. Not to boast any more that they have God Almighty by the hand, when they have the devil by the toe. Containing a true narration of one William Pool an apprentice, &amp; a known Quaker neer Worcester, who on Friday, in last Febr. the 20. boasting that he had that day Christ by the hand, and must according to appointment go to him again, did on that evening by the temptation and impulsion of the devil drown himself in the river. Together with the judgement of the coroner and jury, who found him guilty of self-murder. As also the most barbarous usage of some Quakers who digged him out of his grave. And the most unparaleled presumption of one Mrs. Susan Peirson, who undertook to raise him again to life, with the whole manner of it, and the words that at that time she uttered; the like whereof never heard in Christendome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92906</idno>
+            <idno type="STC">Wing S251</idno>
+            <idno type="STC">Thomason E1645_5</idno>
+            <idno type="STC">ESTC R209085</idno>
+            <idno type="EEBO-CITATION">99867988</idno>
+            <idno type="PROQUEST">99867988</idno>
+            <idno type="VID">170206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1645[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sad caveat to all Quakers. Not to boast any more that they have God Almighty by the hand, when they have the devil by the toe. Containing a true narration of one William Pool an apprentice, &amp; a known Quaker neer Worcester, who on Friday, in last Febr. the 20. boasting that he had that day Christ by the hand, and must according to appointment go to him again, did on that evening by the temptation and impulsion of the devil drown himself in the river. Together with the judgement of the coroner and jury, who found him guilty of self-murder. As also the most barbarous usage of some Quakers who digged him out of his grave. And the most unparaleled presumption of one Mrs. Susan Peirson, who undertook to raise him again to life, with the whole manner of it, and the words that at that time she uttered; the like whereof never heard in Christendome.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson in Giltspur street without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pool, William, d. 1657 --  Early works to 1800.</term>
+               <term>Peirson, Susan --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170206:1" rendition="simple:additions"/>
+            <p>A Sad Caveat to all QUAKERS.</p>
+            <p>Not to boaſt any more that they have God Al<g ref="char:EOLhyphen"/>mighty by the hand, when they have the Devil by the toe.</p>
+            <p>Containing a true Narration of one <hi>William Pool</hi> an Apprentice, &amp; a known Quaker neer <hi>Worceſter,</hi> who on Friday, in laſt <hi>Febr.</hi> the 20. boaſting that he had that day Chriſt by the hand, and muſt according to appointment go to him again, did on that evening by the temp<g ref="char:EOLhyphen"/>tation and impulſion of the Devil drown him<g ref="char:EOLhyphen"/>ſelf in the River. Together with the Judge<g ref="char:EOLhyphen"/>ment of the Coroner and Jury, who found him guilty of ſelf-Murder.</p>
+            <p>As alſo the moſt barbarous uſage of ſome Quakers who digged him out of his Grave. And the moſt unparaleled preſumption of one Mrs <hi>Suſan Peirſon,</hi> who undertook to raiſe him again to life, with the whole manner of it, and the words that at that time ſhe uttered; The like whereof never heard in Chriſtendome.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Gilbertſon</hi> in Giltſpur ſtreet without Newgate. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170206:2"/>
+            <pb n="3" facs="tcp:170206:2"/>
+            <head>A ſad Caveat to all <hi>Quakers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Church of God hath of<g ref="char:EOLhyphen"/>tentimes found many op<g ref="char:EOLhyphen"/>poſers but never more then in this Age. The word of God was never more pow<g ref="char:EOLhyphen"/>erfully preached, and the Devil never more buſy to ſowe his tares then at this preſent. And in this the policy of the Devil is very remarka<g ref="char:EOLhyphen"/>ble which is to overthrow the Goſpel by the Goſpel, that is by perverting the ſence of the Goſpel, by making many falſe gloſſes, and Comments, and Inter<g ref="char:EOLhyphen"/>pretations on it, nay by making the Goſ<g ref="char:EOLhyphen"/>pel to appeare but as a dead letter, com<g ref="char:EOLhyphen"/>pared to the light which they pretend to have within them. Although the Devil
+<pb n="4" facs="tcp:170206:3"/>I ſay in all ages, hath rayſed up many Enemies, againſt the Goſpel, yet his malice did never worke more prevalent<g ref="char:EOLhyphen"/>ly then now, it worketh the more preva<g ref="char:EOLhyphen"/>lently becauſe it worketh with ſo much ſubtilty and deceit, and becauſe it is diſ<g ref="char:EOLhyphen"/>guiſed with ſo much ſanctity, ſurely the Devil did never ſo often tranſforme himſelfe into an Angell of light, by hold<g ref="char:EOLhyphen"/>ing forth falſe lights then in theſe days. Had they bin Iews who had blaſphemed the Goſpel, we could have diſcovered, and aveyded them? Had they bin Maho<g ref="char:EOLhyphen"/>metans or Turks we could with more confidence have confuted them? Had they bin Athiſts we could either have convinced, or have puniſhed them, but they are a Generation of men ſprang up amongſt us, who do carry an infection with them, an infection which is the more dangerous becauſe it over-runs every part preſervatiues into the rankeſt poy<g ref="char:EOLhyphen"/>ſon? The zeale of theſe men is but diſſi<g ref="char:EOLhyphen"/>mulation, their prayers are an abhomi<g ref="char:EOLhyphen"/>natione their Doctrine but prophanes and the whole Converſation of their lives a Labyrinth wherein they loſe themſelves in the many errours and
+<pb n="4" facs="tcp:170206:3"/>
+turnings of ſpiritual pride.</p>
+            <p>I ſhall not need to make any large diſcovery of them every day produceth one remarkable example or another, I ſhal only repreſent unto you a Narrati<g ref="char:EOLhyphen"/>on of one of them who boaſting that he had Chriſt by the hand, it proved ſadly afterwards by the ſequele, that he had the Devil by the toe.</p>
+            <p>His Name was <hi>William Pool</hi> he was an Apprentice to one <hi>Georg Knight</hi> of the Pariſh of <hi>Clains</hi> in the City of <hi>Worceſter,</hi> his Maſter heretofore lived in a good Fame, by a good trade had he not driven at the laſt a bad trade by keeping convenation with the Quakers, with whoſe Principles he was ſo ſtrongly poſſeſſed that from being a Brother in Chriſt he would now become Chriſt in a Brother. The Quakers are not aſhamed to affirme that Chriſt is parſo<g ref="char:EOLhyphen"/>nally in them by which wild aſſertion if we ſhould umpe with them in that be<g ref="char:EOLhyphen"/>leife it would come to paſſe that there would be as many Chriſts as there are Chriſtians, and alluding to the opinion of the Papiſts in their point of predeſ<g ref="char:EOLhyphen"/>tination, the Body of Chriſt would at
+<pb n="6" facs="tcp:170206:4"/>one and at the ſame time being ſeveral bodyes, and in ſeverall places which is abſolutly repugnant unto ſence and rea<g ref="char:EOLhyphen"/>ſon,</p>
+            <p>This man had heretofore bin accoun<g ref="char:EOLhyphen"/>ted a ſincere Profeſſour, but now he be<g ref="char:EOLhyphen"/>gan to conc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive himſelf to be above all Ordinances, and to be a deſpiſer of that truth which he before profeſſed: He was ſometimes eſteemed to be a very honeſt neighbour, but now he looked upon them with a ſcornful and cenſo<g ref="char:EOLhyphen"/>rious eye, as if they were not worthy of his countenance, yet he would be fami<g ref="char:EOLhyphen"/>liar with his Apprentice <hi>William Pool</hi> they was of the ſame mind, which made them outwardly to agree ſo well toge<g ref="char:EOLhyphen"/>ther, and yet this compliance was not ſo extraordinary but it ſometimes car<g ref="char:EOLhyphen"/>ried with it ſome tokens of diſtaſt.</p>
+            <p>On a time the father of <hi>William Pool</hi> comming to ſee him, he found his Maſter and him very earneſt in diſputa<g ref="char:EOLhyphen"/>tion together; the Apprentice did thou his Maſter at every word, the Father of the Apprentice did much admire at the incivility of his ſon, and that the older he grew he was every day more un<g ref="char:EOLhyphen"/>mannerly then other.</p>
+            <p>
+               <pb n="7" facs="tcp:170206:4"/>
+He therefore did reprove him for it, but both Maſter and man did ſatisfie him concerning that particular, and did aſſure him that his Son in thoſe words did expreſſe himſelf punctually, and that it was not his rudeneſs, but his Religi<g ref="char:EOLhyphen"/>on; the old man departed, and the Ap<g ref="char:EOLhyphen"/>prentice and his Maſter did live toge<g ref="char:EOLhyphen"/>ther with a mutuall concurrence and harmony of affection; It did ſo fall out (as commonly it is ſeen) that the ran<g ref="char:EOLhyphen"/>keſt weeds grow thickeſt and higheſt, that the City of <hi>Worcſter</hi> and places thereabouts did begin to be over-ſpread with <hi>Quakers,</hi> many perſons who be<g ref="char:EOLhyphen"/>fore pretended much unto Religion be<g ref="char:EOLhyphen"/>ing ſeduced and carried away by this violent torrent; and thoſe who were eſteemed to be moſt zealous for the truth did ſuffer themſelvs to fall into this errour, ſuch a face of ſanctimony and humility did theſe ſeducers put on them.</p>
+            <p>Amongſt theſe <hi>William Pool</hi> began to be very well known, and as ſome (who ſuffered not long ſince) did pre<g ref="char:EOLhyphen"/>tend they were Chriſt; ſo this young man did affirm that he did ſhake hands
+<pb n="8" facs="tcp:170206:5"/>with Chriſt: to be thus familiar with Chriſt did ſwell him up into a great preſumption, when alas he was altoge<g ref="char:EOLhyphen"/>ther ignorant what a deſperate Fami<g ref="char:EOLhyphen"/>liar he had gotten; he now believs him<g ref="char:EOLhyphen"/>ſelf to be lifted up into the Heavens, and to be above the condition of other men when he is in the loweſt and moſt lamentable condition in the world, the pride of heart and the temptations of the devil do increaſe together: It ſéems that the Prince of darkneſs had appea<g ref="char:EOLhyphen"/>red to him in the ſhape of ſome goodly perſonage, and this credulous young man was apt to believe that it was Chriſt; poor man he was not much above two and twenty years of age, an age apt to be ſeduced and carried away, eſpecially when it is attended with a ſpirit that entertaineth an extraordi<g ref="char:EOLhyphen"/>nary conceit of it ſelf, and would appear higher and holier then o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers.</p>
+            <p>On Friday the twentieth of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> about three of the clock in the after<g ref="char:EOLhyphen"/>noon he did walk forth from his maſters houſe into the Garden, where having made ſome ſtay longer then ordinary he was demanded where he had bin, he made
+<pb n="9" facs="tcp:170206:5"/>anſwer that he had bin with Chriſt, and that Chriſt had taken him by the hand, and that he had appointed him to come to him again, and that he muſt go unto him.</p>
+            <p>This was a ſtrong temptation of the Devil that was upon this poor man, and it is moſt apparent that it was a temp<g ref="char:EOLhyphen"/>tation of the Divel, for all other temp<g ref="char:EOLhyphen"/>tations that do procéed from a mans ſelf do ſide with nature, but for a man to be tempted to deſtroy himſelfe is abſolute<g ref="char:EOLhyphen"/>ly againſt nature, and muſt be a meere temptation of the Devil You Sir know by what ſpirit this Quaker did act, you ſhall now ſee what he doth act. This poore young man goes forth againe, but to returne no more, what were the ap<g ref="char:EOLhyphen"/>paritions which he ſaw may we concerne were the temptations that were upon him; When the night began to grow old, he is miſſed, and no man can jmma<g ref="char:EOLhyphen"/>gine what is become of him, for he was never knowne to ſtay out late before? the night is drawn out betwixt feare and hope, and the morning appearing, Meſ<g ref="char:EOLhyphen"/>ſingers are ſent to enquire him out, but they return with a Noneſtinventus, and which make it the more ſtrange, none of
+<pb n="10" facs="tcp:170206:6"/>his acquaintance or kindred can poſibly direct them where to find him.</p>
+            <p>In theſe perplexities they continue all Saturday, and Saturday night, and no tidings could be heard of him. On Sun<g ref="char:EOLhyphen"/>day morning there were many more at leaſure to ſeeke after him, and ſome walking one way and ſome another, one of them at laſt had diſcovered ſome Cloathes which lay by the Rivers ſide, they were the Cloathes of the young man whom ſo long they looked for; and caſting his eye up and down, and obſer<g ref="char:EOLhyphen"/>ving at laſt the dead body floting on the water, he had not the leaſure to take it up, but making haſt to ſome acquaintance they came al in together being all ama<g ref="char:EOLhyphen"/>zed at ſo ſadde a ſpectacle, they took the dead body out of the River, and cove<g ref="char:EOLhyphen"/>ring it with a Cloath they brought it to his Maſters houſe? Immediately the Towne was full of ſorrow and Com<g ref="char:EOLhyphen"/>plaint eſpecially againſt the Quakers and ſome women of Note thereabouts who being ſeduced themſelves did con<g ref="char:EOLhyphen"/>tribute their utmoſt Indeavours to ſe<g ref="char:EOLhyphen"/>duce others. This was much ſeconded
+<pb n="11" facs="tcp:170206:6"/>by the Miniſters ſermon that afternoon, who taking an occaſion to diſcourſe upon this ſubject did repreſent what advan<g ref="char:EOLhyphen"/>tage the Devil did take to improve his temptations, and how neere of kinne is ſpirituall pride to Hell.</p>
+            <p>Sermon being ended, the Coroner was ſent for and a Iury impanneled, and it was eaſily found that the Quaker who had drowned himſelf was guilty of ſelf-murder; nevertheleſs they were ſo full of pitty as to exempt the dead body from that ſentence to which thoſe who do de<g ref="char:EOLhyphen"/>ſtroy themſelves are lyable, for he was not buried in the High-way, he had no ſtake plated with Iron thruſt through his body to terrifie all paſſengers from committing ſuch a black and deſperate act, but on the Monday following about four of the clock in the morning he was civilly buried in the Pariſh of <hi>Clains:</hi> The mercy of the pariſh where he lived did quietly commit him to the Grave, but the barbarous boldnes and preſum<g ref="char:EOLhyphen"/>tion of the Quakers with whom he con<g ref="char:EOLhyphen"/>verſed would not ſuffer him to reſt qui<g ref="char:EOLhyphen"/>et in his Grave, but on the ſame mor<g ref="char:EOLhyphen"/>ning about eleven of the clock they dig<g ref="char:EOLhyphen"/>ged
+<pb n="12" facs="tcp:170206:7"/>him up again to ſhow a wonder up<g ref="char:EOLhyphen"/>on him, which being one of the moſt da<g ref="char:EOLhyphen"/>ring and preſumptuous deeds that was ever known in Chriſtendom. To ſhow you of what ſpirit theſe Quakers are I will be carefull in theſe following lines to give you a true account thereof.</p>
+            <div type="part">
+               <head>The moſt preſumptuous attemt of Mrs. <hi>Suſan Peirſon</hi> and other Quakers, who who commanded the dead body of this their deceaſed friend to be taken out of the Grave, madly and vainly promiſing his Mother that they would reſtore it unto life again.</head>
+               <p>I Made mention a little before that there were ſome women of note who ſuffering themſelvs to be ſeduced by theſe great Deceivers, did uſe their utmoſt endeavours to ſeduce others. In this number was one Miſtris <hi>Suſan Peirſon,</hi> who by reaſon of her quality, and great abilities adding ſome Autho<g ref="char:EOLhyphen"/>rity to her Illuſions, did wonderfully ſerve to increaſe the number of the Deceived: ſhe was heretofore very
+<pb n="13" facs="tcp:170206:7"/>much beloved for the many good parts that were eminent in her, ſhe appeared to be a great lover of the Goſpel, a ſtrict and conſtant obſerver of the Sabbath, a diligent hearer of the Word, but being overcome by hyp criſies and the preten<g ref="char:EOLhyphen"/>ded ſanctity of this ſect of the Quakers, ſhe turned from being a lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of Ordi<g ref="char:EOLhyphen"/>nances to be a deſpiſer of Ordinances, and briefly to act &amp; utter any thing that a prophane and an unruly rage could prompt her to. She entertained a be<g ref="char:EOLhyphen"/>lief, that to derogate from the Autho<g ref="char:EOLhyphen"/>rity of the Miniſters was to encreaſe her own, ſhe therefore did moke it her practice to come into the Churches wher the Miniſters were preaching, and in<g ref="char:EOLhyphen"/>terrupting them as well praying as preaching; ſhe would demand of them what Authority they could ſhow to prove themſelvs Miniſters, and whe<g ref="char:EOLhyphen"/>thei they could juſtifie themſelvs to be Miniſters by the working of miracles, quite forgetting or diſdaining the Do<g ref="char:EOLhyphen"/>ctrine of Saint <hi>Paul, That a woman ought to be ſilent, and not to ſpeak in the Congregation.</hi>
+               </p>
+               <p>
+                  <pb n="14" facs="tcp:170206:8"/>
+The Mother of this young Quaker that thus deſperately drowned himſelf, being extraordinarily perplexed for the loſs of her ſon in ſo ſtrange a manner, and almoſt refuſing to be comforted, Miſtris <hi>Suſan Peirſon</hi> doth make her haſty addreſſes to her, ſhe reproves her ſuperfluous tears, and aſſureth her that ſhe would reſtore unto her her ſon agen by a quickning Miracle that ſhe would work upon him; The Miracle indeed was, that the Devil ſhould ſo much blind her as to undertake ſo great an impoſſibility to the utter diſgracing of a creature that had been ſo uſefull to him, and may ſerve to repreſent unto us what a difference there is in the diſ<g ref="char:EOLhyphen"/>poſition of their ways detwixt the eye of providence and the ſpirit of darknes; but the ſad Mother at the firſt was ob<g ref="char:EOLhyphen"/>ſtinate, and could not be indured to give any ear unto her; It was almoſt as great a wonder to work in her the be<g ref="char:EOLhyphen"/>lief of the wonder, as to work the won<g ref="char:EOLhyphen"/>der i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelf, ſhe was too ſure that her ſon was drown'd, and ſhe did weep ſo bit<g ref="char:EOLhyphen"/>terly for him as if ſhe would drown him again in her tears; nevertheleſs at the
+<pb n="15" facs="tcp:170206:8"/>laſt ſhe condeſcended to the importuni<g ref="char:EOLhyphen"/>ty of her friends, and ſhe came unto the Grave rather to obſerve then to enjoy the Miracle; The buſie Spades of the Quakers had now opened the Grave, and the body of the young man being digged up and laid upon ſhe ground, the ſhrowd was taken off, when Miſtris <hi>Peirſon</hi> drawing nigh unto it, did rub his face and his breaſt wi h her hand, and laying her face upon his face, and her hands upon his hands, ſhe did com<g ref="char:EOLhyphen"/>mand him to ariſe: The eyes of the multitude at thoſe words were all ſixed upon the dad body, being intent to ob<g ref="char:EOLhyphen"/>ſerve what the event would be; it came alſo into their minds that the Prophet <hi>Eliſha</hi> had in the ſame manner raiſed a young man to life who had been dead, and that our Saviour Chriſt had raiſed <hi>Lazarus</hi> four days buried, which made them the more earneſt to preſs neer un<g ref="char:EOLhyphen"/>to her, and with a curious diligence to obſerve what paſſed: But the Body not moving at all, and neither voyce nor ſneezing being obſerved to proceed from it, ſhe kneeled down and prayed over it, and did command him in the
+<pb n="16" facs="tcp:170206:9"/>Name of the Living God, to riſe up and walk: At theſe words a little pauſa was made, and theople were full of ſilence and expectation, but the body not ſtirring at all, and neither life, nor any hope of life appearing, Miſtris <hi>Peirſon</hi> commanded them to put it into the Grave again, excuſing her ſelf, that it had not been duried four dayes, and ſpeaking thoſe words ſhe departed be<g ref="char:EOLhyphen"/>ing aſhamed at the heart at the ill ſuc<g ref="char:EOLhyphen"/>ceſs of the frantick enterprize ſhe un<g ref="char:EOLhyphen"/>dertook, ſince which time, to their per<g ref="char:EOLhyphen"/>petual diſgrace, the Arrogancy of the generation of the Quakers in general and the ſhame and ſorrow, and retired<g ref="char:EOLhyphen"/>neſs of Miſtris <hi>Peirſon</hi> in particular, is become the daily diſcourſe and laughter of the City of <hi>Worceſter,</hi> and of all the Countrey round about it.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
